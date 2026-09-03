@@ -10,7 +10,7 @@ Automatically completes Discord Quests and helps you claim their rewards.
 4. Press **`Ctrl + Shift + I`** to open Developer Tools.
 5. Go to the **Console** tab.
 6. Copy the code from the provided **`.js` file** and paste it into the console.
-7. Run the script and press **Start**.
+7. Run the script and press **Enter**.
 
 ## How It Works
 
